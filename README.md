@@ -18,7 +18,7 @@
 Hey y'all, i'm [Epsit Bhardwaj](https://www.sites.google.com/view/epsit), a passionate self-taught web developer and an ardent competitive programmer. I am also an open-source enthusiast and maintainer. I have been learning a lot from the open-source community and I really love how collaboration and knowledge sharing happens through open-source. Always looking forward to have an opportunity towards making some really cool projects and such stuffs.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/epsit03/about-me/main/giphy.webp" width="500" height="320" />
+  <img align="right" alt="GIF" src="giphy.webp" width="500" height="320" />
   
 - 💼 Any queires or work? Do reach, [Mail Me!](mailto:epsitbhardwaj26@gmail.com) 
 - 💬 Talk to me 'bout anything, always happy to connect ;)
