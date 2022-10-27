@@ -13,7 +13,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
-<br />
+<br></br>
 
 Hey y'all, i'm [Epsit Bhardwaj](https://www.sites.google.com/view/epsit), a passionate self-taught web developer and an ardent competitive programmer. I am also an open-source enthusiast and maintainer. I have been learning a lot from the open-source community and I really love how collaboration and knowledge sharing happens through open-source. Always looking forward to have an opportunity towards making some really cool projects and such stuffs.
 
