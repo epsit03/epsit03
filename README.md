@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/_epsit_/">
   <img align="left" alt="Epsit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/Epsit#2866">
+<a href="https://discord.com/channels/Epsit#2866">
   <img align="left" alt="Epsit's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/EpsitB">
