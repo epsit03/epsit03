@@ -36,7 +36,10 @@ Hey y'all, i'm [Epsit Bhardwaj](https://www.sites.google.com/view/epsit), a pass
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="32" src="https://github.com/dayrize/google-cloud-icons/blob/0f78f18dcf4fb30f2fa1df03897a6234eaa82637/cloud_shell/cloud_shell.png"></code>
 
+<br/>
 ### ```<Last week I spent time on:>```
+<br/>
+
 
 <!--START_SECTION:waka-->
 
