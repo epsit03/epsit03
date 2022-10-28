@@ -11,12 +11,15 @@
 <a href="https://www.linkedin.com/in/epsit26/">
   <img align="left" alt="Epsit's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCPAoQJvS6BBSihc3B1bt7FA">
+  <img align="left" alt="Epsit's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;CSE+Sophomore;Web+Developer;Competitive+Programmer;English+enthusiast" alt="Typing SVG" /></a>
 
-Hey y'all, i'm [Epsit Bhardwaj](https://www.sites.google.com/view/epsit), a passionate self-taught web developer and an ardent competitive programmer. I am also an open-source enthusiast and maintainer. I have been learning a lot from the open-source community and I really love how collaboration and knowledge sharing happens through open-source. Always looking forward to have an opportunity towards making some really cool projects and such stuffs.
+Hey y'all, I'm [Epsit Bhardwaj](https://www.sites.google.com/view/epsit), a passionate self-taught web developer and an ardent competitive programmer. I am also an open-source enthusiast and maintainer. I've been learning quite a lot from this open-source community & am pretty amazed by seeing the collaboration & sharing happening over here. Always looking forward to have an opportunity towards making some really cool projects and such stuffs.
 
 
   <img align="right" alt="GIF" src="giphy.webp" width="400" height="320" />
@@ -57,12 +60,14 @@ Oh yes, I also run a podcast series! So, if anyone is interested in hearing some
 
 <a href="https://open.spotify.com/show/6vkoLnZADKFx1LbShqmyqQ">
   <img align="left" alt="Epsit's Spotify" width="32px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png">
-</a>Spotify. 🥺👉👈
+</a>Spotify.
 <br/>
 <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
 
 <p align="center">
-<img width="60%" src="https://activity-graph.herokuapp.com/graph?username=epsit03&theme=xcode" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=epsit03&theme=xcode" />
 </p>
+
+Any suggestions/remarks?🥺👉👈 Just drop me a [Chitthi](mailto:epsitbhardwaj26@gmail.com)!
