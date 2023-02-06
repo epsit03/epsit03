@@ -56,18 +56,14 @@ HTML           █████▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<p align = "center"><img src = "https://media.geeksforgeeks.org/img-practice/hackathonbackground-1674452664.gif" />
+
 Oh yes, I also run a podcast series! So, if anyone is interested in hearing some non- tech, life-savvy talks, you may go and give ears to me on:
 
 <a href="https://open.spotify.com/show/6vkoLnZADKFx1LbShqmyqQ">
   <img align="left" alt="Epsit's Spotify" width="32px" src="http://icons.iconarchive.com/icons/blackvariant/button-ui-requests-2/1024/Spotify-icon.png">
 </a>Spotify.
-<br/>
-<br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
-
-<p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=epsit03&theme=xcode" />
-</p>
 
 Any suggestions/remarks?🥺👉👈 Just drop me a [Chitthi](mailto:epsitbhardwaj26@gmail.com)!
