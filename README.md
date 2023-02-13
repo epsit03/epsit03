@@ -39,6 +39,8 @@ Hey y'all, I'm [Epsit Bhardwaj](https://www.sites.google.com/view/epsit), a pass
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="32" src="https://github.com/dayrize/google-cloud-icons/blob/0f78f18dcf4fb30f2fa1df03897a6234eaa82637/cloud_shell/cloud_shell.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark" alt = "Most Used Language">
 
