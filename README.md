@@ -6,6 +6,7 @@
 Hey y'all!<br/>
 [Epsit Bhardwaj](https://www.sites.google.com/view/epsit) this side. A CSE Sophomore, MLSA, Mentor @ Social Winter of Code (S'23), @ HAckKRMU, @HackGLB, Speaker & Contributor for Gimp-ML project, and casually spending time in building & contributing to FOSS. Currently, deploying smart contracts over MATIC on Mumbai testnet (Polygon).
 
+<img width="25px" src="https://avatars.githubusercontent.com/u/30753617?s=200&v=4"/> <a href="https://gist.github.com/epsit03/5a805d423af7d16d00064aa1fc823be1"> Storage Contract on Polygon </a>
 
   <img align="right" alt="GIF" src="giphy.webp" width="400" height="320" />
   
