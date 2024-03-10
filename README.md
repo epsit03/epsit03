@@ -1,7 +1,7 @@
 # About Me
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;CSE+Sophomore;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;CSE+Penultimate+Year;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
 
 Hey y'all!<br/>
 [Epsit Bhardwaj](https://www.sites.google.com/view/epsit) this side. A CSE Penultimate Year Student, MLSA, Mentor @ Social Winter of Code (S'23 and S'24), @ HAckKRMU (2.0), @HackGLB, Speaker @GDG Kanpur, @TensorFlow User Group, @BhopalFOSS, and casually spending time in building & contributing to FOSS. Currently, deploying smart contracts over MATIC on Mumbai testnet (Polygon).
