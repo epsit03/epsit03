@@ -10,7 +10,7 @@ Hey y'all!<br/>
 
   <img align="right" alt="GIF" src="giphy.webp" width="400" height="320" />
   
-- 💼 Wanna build something peculiar? Let's build it together, [Mail Me!](mailto:epsitbhardwaj26@gmail.com) 
+- 💼 Wanna build something peculiar? Let's build it together, Just drop me a [Chitthi!](mailto:epsitbhardwaj26@gmail.com) 
 - 💬 Talk to me 'bout anything, always happy to connect ;)
 - 📊 Working to improve my <a href="https://developers.google.com/profile/u/epsit">Google Dev Profile</a>
 - 👨‍💻 Casually spending time on <a href="https://codesandbox.io/u/epsit03">Code Sandbox</a>
@@ -143,4 +143,4 @@ NextJs         █████▒░░░░░░░░░░░░░░░�
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
 
 Any suggestions/remarks?🥺👉👈<br/>
-Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)!
+<!-- Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)! -->
