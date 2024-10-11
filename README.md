@@ -142,5 +142,5 @@ NextJs         █████▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
 
-Any suggestions/remarks?🥺👉👈<br/>
-<!-- Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)! -->
+<!-- Any suggestions/remarks?🥺👉👈<br/>
+Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)! -->
