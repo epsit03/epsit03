@@ -6,7 +6,7 @@
 Hey y'all!<br/>
 [Epsit Bhardwaj](https://www.sites.google.com/view/epsit) this side. A CSE Final Year Student, Project Implemntation Intern at Gevme (a GlobalSign Pte. Ltd. company), Ex-Consultant at Wheebox-ETS, MLSA, Mentor @ Social Winter of Code (S'23 and S'24), @ HAckKRMU (2.0), @HackGLB, Speaker @GDG Kanpur, @TensorFlow User Group, @BhopalFOSS, and casually spending time in building & contributing to FOSS. Currently, deploying smart contracts over MATIC on Mumbai testnet (Polygon). And when I am not busy, I spend my leisure time by reading some Research papers and building up new & innovative ideas built upon them.
 
-<img fetchpriority="high" decoding="async" width="300" height="2006" src="https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero.png" alt="" srcset="https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero.png 980w, https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero-300x250.png 300w, https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero-768x639.png 768w" sizes="(max-width: 500px) 50vw, 300px">
+<img fetchpriority="high" decoding="async" width="300" height="200" src="https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero.png" alt="" srcset="https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero.png 980w, https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero-300x250.png 300w, https://www.gevme.com/en/wp-content/uploads/2023/09/Integrations_hero-768x639.png 768w" sizes="(max-width: 500px) 50vw, 300px">
 
 <img width="25px" src="https://avatars.githubusercontent.com/u/30753617?s=200&v=4"/> <a href="https://gist.github.com/epsit03/5a805d423af7d16d00064aa1fc823be1"> Storage Contract on Polygon </a>
 
