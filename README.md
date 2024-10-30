@@ -128,7 +128,8 @@ Hey y'all!<br/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark" align="right" alt = "Most Used Language">
-### ```Last week I spent time on:```
+
+### `<Last week I spent time on>`
 
 
 <!--START_SECTION:waka-->
