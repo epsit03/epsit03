@@ -125,7 +125,6 @@ Hey y'all!<br/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark" align="right" alt = "Most Used Language">
 ### ```Last week I spent time on:```
 
@@ -137,10 +136,9 @@ JavaScript     ███████████████▒░░░░░�
 TypeScript     █████████▒░░░░░░░░░░░░░░░   31.49 %
 NextJs         █████▒░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
-
+<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" />
 <!--END_SECTION:waka-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> 
-<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
 
 <!-- Any suggestions/remarks?🥺👉👈<br/>
 Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)! -->
