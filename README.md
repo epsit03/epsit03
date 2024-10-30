@@ -10,6 +10,8 @@ Hey y'all!<br/>
 
   <img align="right" alt="GIF" src="giphy.webp" width="400" height="320" />
   
+<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" />
+  
 - 💼 Wanna build something peculiar? Let's build it together, Just drop me a [Chitthi!](mailto:epsitbhardwaj26@gmail.com) 
 - 💬 Talk to me 'bout anything, always happy to connect ;)
 - 📊 Working to improve my <a href="https://developers.google.com/profile/u/epsit">Google Dev Profile</a>
@@ -136,7 +138,6 @@ JavaScript     ███████████████▒░░░░░�
 TypeScript     █████████▒░░░░░░░░░░░░░░░   31.49 %
 NextJs         █████▒░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
-<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" />
 <!--END_SECTION:waka-->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
 
