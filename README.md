@@ -1,6 +1,7 @@
 ## Yup, that's me...!
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
 
+<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="bottom" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;A+CSE+senior;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
 
 Hey y'all!<br/>
