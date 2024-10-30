@@ -1,7 +1,6 @@
 ## Yup, that's me...!
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
 
-<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="bottom" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;A+CSE+senior;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
 
 Hey y'all!<br/>
@@ -128,7 +127,6 @@ Hey y'all!<br/>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark" align="right" alt = "Most Used Language">
-
 ### ```Last week I spent time on:```
 
 
@@ -141,7 +139,8 @@ NextJs         █████▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham" alt="epsit03" /> 
+<img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" /></p>
 
 <!-- Any suggestions/remarks?🥺👉👈<br/>
 Just drop me a [<b>Chitthi</b>](mailto:epsitbhardwaj26@gmail.com)! -->
