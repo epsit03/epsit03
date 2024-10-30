@@ -11,6 +11,8 @@ Hey y'all!<br/>
   <img align="right" alt="GIF" src="giphy.webp" width="400" height="320" />
   
 <img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" />
+![github-user-contribution](https://github.com/user-attachments/assets/f3faa346-e9ef-4e40-aee6-6ba045943490)
+
   
 - 💼 Wanna build something peculiar? Let's build it together, Just drop me a [Chitthi!](mailto:epsitbhardwaj26@gmail.com) 
 - 💬 Talk to me 'bout anything, always happy to connect ;)
