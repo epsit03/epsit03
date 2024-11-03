@@ -13,7 +13,6 @@ Hey y'all!<br/>
 <img width="25px" src="https://avatars.githubusercontent.com/u/30753617?s=200&v=4"/> <a href="https://gist.github.com/epsit03/5a805d423af7d16d00064aa1fc823be1"> Storage Contract on Polygon </a>
 
   <img align="right" alt="GIF" src="giphy.webp" width="400" height="320" />
-
   
 <img src="https://komarev.com/ghpvc/?username=epsit03&label=Profile%20views&color=0e75b6&style=flat" alt="epsit03" align="top" />
 
