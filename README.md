@@ -24,7 +24,6 @@ Hey y'all!<br/>
 - 👨‍💻 Casually spending time on <a href="https://codesandbox.io/u/epsit03">Code Sandbox</a>
 
 ### ```<My Tech-Stack>``` 
-
 <div style="display: flex; ">
 <table>
   <tr>
