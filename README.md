@@ -14,18 +14,21 @@
 
 <details>
 <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/More.gif" width="35"> <b>Key Highlights:</b> </summary>
+<br/>
+  
 - **Ex-Consultant** at **Wheebox-ETS**  
 - **MLSA**, **Mentor** @Social Winter of Code (S'23 & S'24)  
 - **Speaker** @GDG Kanpur, @TensorFlow User Group, @BhopalFOSS  
 - Building **FOSS** projects in my leisure time  
-- Currently deploying **smart contracts** over **MATIC** on **Mumbai testnet**  
+- Currently deploying **smart contracts** over **MATIC** on **Mumbai testnet**
+---
 </details>
 
 <details>
 <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/Skills.gif" width="35"> <b>Tech Stack</b> </summary>
-
+<br/>
 I'm always exploring new technologies and improving my skill set. Here are some of the tools I use:
-
+<br/>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
@@ -43,15 +46,18 @@ I'm always exploring new technologies and improving my skill set. Here are some 
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/>
 </div>
 
+---
 </details>
 
 <details>
   <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/Github-Stats.gif" width="35"> <b>Stats & Activity</b> </summary> <br/>
 
 **Most Used Languages:**  
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark)
 
 **Weekly Activity:**  
+<br/>
 ![WakaTime](https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham)
 
 **Recent Contributions:**
