@@ -1,30 +1,27 @@
 ## Yup, that's me...!
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;A+CSE+senior;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
+<img src="https://github.com/epsit03/epsit03/blob/main/assets/Real.gif">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epsit03/epsit03/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epsit03/epsit03/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/epsit03/epsit03/output/github-snake.svg">
 </picture>
-
-[![](https://visitor-badge.glitch.me/badge?page_id=epsit03)](https://github.com/epsit03)  
-
 [🔗 Website](https://www.sites.google.com/view/epsit) | [📧 Email](mailto:epsitbhardwaj26@gmail.com) | [📊 Google Dev Profile](https://developers.google.com/profile/u/epsit)
-
----
 
 **Hi there!** 👋 I'm **Epsit Bhardwaj**, a **CSE Final Year Student** and **Project Implementation Intern at Gevme** (a GlobalSign Pte. Ltd. company). I'm passionate about **Web Development**, **Competitive Programming**, and **Web3**. I love exploring the intersection of technology and innovation, focusing on **Smart Contract Development** (currently working on the **MATIC Polygon Testnet**).
 
-### Key Highlights:
+<details>
+<summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/More.gif" width="35"> <b>Key Highlights:</b> </summary>
 - **Ex-Consultant** at **Wheebox-ETS**  
 - **MLSA**, **Mentor** @Social Winter of Code (S'23 & S'24)  
 - **Speaker** @GDG Kanpur, @TensorFlow User Group, @BhopalFOSS  
 - Building **FOSS** projects in my leisure time  
 - Currently deploying **smart contracts** over **MATIC** on **Mumbai testnet**  
+</details>
 
----
-
-### Tech Stack 🛠️
+<details>
+<summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/Skills.gif" width="35"> <b>Tech Stack</b> </summary>
 
 I'm always exploring new technologies and improving my skill set. Here are some of the tools I use:
 
@@ -45,9 +42,10 @@ I'm always exploring new technologies and improving my skill set. Here are some 
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/>
 </div>
 
----
+</details>
 
-### 📊 Stats & Activity
+<details>
+  <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/Github-Stats.gif" width="35"> <b>Stats & Activity</b> </summary> <br/>
 
 **Most Used Languages:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsit03&layout=compact&theme=dark)
@@ -61,4 +59,7 @@ I'm always exploring new technologies and improving my skill set. Here are some 
 JavaScript     ███████████████▒░░░░░░░░░   61.19 %
 TypeScript     █████████▒░░░░░░░░░░░░░░░   31.49 %
 NextJs         █████▒░░░░░░░░░░░░░░░░░░░   07.32 %
+```
 
+</details>
+<img src="https://github.com/epsit03/epsit03/blob/main/assets/Real.gif">
