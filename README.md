@@ -1,4 +1,4 @@
-## Yup, that's me...!
+2## Yup, that's me...!
 ![](https://visitor-badge.glitch.me/badge?page_id=epsit03)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;A+CSE+senior;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
 <img src="https://github.com/epsit03/epsit03/blob/main/assets/Real.gif">
@@ -67,6 +67,5 @@ JavaScript     ███████████████▒░░░░░�
 TypeScript     █████████▒░░░░░░░░░░░░░░░   31.49 %
 NextJs         █████▒░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
-
 </details>
 <img src="https://github.com/epsit03/epsit03/blob/main/assets/Real.gif">
