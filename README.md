@@ -47,7 +47,6 @@ I'm always exploring new technologies and improving my skill set. Here are some 
 
 ---
 </details>
-
 <details>
   <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/Github-Stats.gif" width="35"> <b>Stats & Activity</b> </summary> <br/>
 
