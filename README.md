@@ -59,7 +59,6 @@ I'm always exploring new technologies and improving my skill set. Here are some 
 ![WakaTime](https://github-readme-stats.vercel.app/api?username=epsit03&show_icons=true&theme=gotham)
 
 **Recent Contributions:**
-
 ```text
 JavaScript     ███████████████▒░░░░░░░░░   61.19 %
 TypeScript     █████████▒░░░░░░░░░░░░░░░   31.49 %
