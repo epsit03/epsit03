@@ -14,7 +14,7 @@
 <details>
 <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/More.gif" width="35"> <b>Key Highlights:</b> </summary>
 <br/>
-
+  
 - **Ex-Consultant** at **Wheebox-ETS**  
 - **MLSA**, **Mentor** @Social Winter of Code (S'23 & S'24)  
 - **Speaker** @GDG Kanpur, @TensorFlow User Group, @BhopalFOSS  
