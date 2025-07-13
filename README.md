@@ -1,5 +1,5 @@
 ## Yup, that's me...!
-<img src="https://komarev.com/ghpvc/?username=epsit03&label=Vivid%20Darshak%20Who%Wanted%20To%20Know%Me&color=0e75b6&style=flat" alt="epsit03" />
+<img src="https://komarev.com/ghpvc/?username=epsit03&label=Pyari%20Janta%20Who%20Wanted%20To%20Know%20Me&color=0e75b6&style=flat" alt="epsit03" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;Project+Implementation+Specialist;Competitive+Programmer;A+Chill+Kinda+Guy;" alt="Animated text displaying: Epsit Bhardwaj, Project Implementation Specialist, Competitive Programmer, A Chill Kinda Guy" /></a>
 <img src="https://github.com/epsit03/epsit03/blob/main/assets/Real.gif">
 <picture>
