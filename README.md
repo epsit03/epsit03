@@ -1,6 +1,6 @@
 ## Yup, that's me...!
 <img src="https://komarev.com/ghpvc/?username=epsit03&label=Vivid%20Darshak&color=0e75b6&style=flat" alt="epsit03" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;A+CSE+senior;Web+Developer;Competitive+Programmer;Web3+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=15F740&width=400&lines=Epsit+Bhardwaj;Project Implementation Specialist;Competitive+Programmer;A Chill Kinda Guy" alt="Typing SVG" /></a>
 <img src="https://github.com/epsit03/epsit03/blob/main/assets/Real.gif">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epsit03/epsit03/output/github-snake-dark.svg">
