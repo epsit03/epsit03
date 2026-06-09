@@ -10,7 +10,7 @@
 
 [🔗 Website](https://www.sites.google.com/view/epsit) | [📧 Email](mailto:epsitbhardwaj26@gmail.com) | [📊 Google Dev Profile](https://developers.google.com/profile/u/epsit)
 
-**Hi there!** 👋 I'm **Epsit Bhardwaj**, a **CSE Final Year Student** and **Project Implementation Intern at Gevme** (a GlobalSign Pte. Ltd. company). Casually simping on research papers, wanna read along or discuss? Drop me a [chitthi](mailto:epsitbhardwaj26@gmail.com) or let's connect ;-)
+**Hi there!** 👋 I'm **Epsit Bhardwaj**, a **Project Implementation Specialist at Gevme** (a GlobalSign Pte. Ltd. company). Casually simping on research papers, wanna read along or discuss? Drop me a [chitthi](mailto:epsitbhardwaj26@gmail.com) or let's connect ;-)
 <details>
 <summary><img src="https://github.com/epsit03/epsit03/blob/main/assets/More.gif" width="35"> <b>Key Highlights:</b> </summary>
 <br/>
